@@ -17,8 +17,8 @@ A small summary on these components is shown below:
 Metrics on COVID-19 deaths by state was retrieved from the COVID Tracking Project (https://covidtracking.com/). We collected data from this site dated from January 1st 2020 to December 4th 2020.
 
 We aggregated data from different sources based on what we thought would contribute to COVID-19 deaths. We boiled it down to these factors:
-1. Hospital quality
-()
+1. Hospital quality (Designated as a health score)
+
 2. Hospital bed availability (ICU and regular beds)
 (https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-state-timeseries)
 This was the link when we did the project. It seems that the link has changed to:
