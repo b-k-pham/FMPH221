@@ -7,8 +7,8 @@ Our project focuses on COVID-19 mortaility by state over a time period. From our
 3. Suggest state-specific or general "action items" based on these factors
 
 This repository contains:
-1. Data processing code
-2. Model Selection code
+1. Data processing code (dataprocessing.R)
+2. Model Selection code ((cv_modelformulation.R)
 3. Final Report
 
 A small summary on these components is shown below:
