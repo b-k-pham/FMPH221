@@ -1,0 +1,51 @@
+﻿state_full,Health_Score,state
+Alabama,-0.82,AL
+Alaska,0.074,AK
+Arizona,-0.148,AZ
+Arkansas,-0.836,AR
+California,0.398,CA
+Colorado,0.537,CO
+Connecticut,0.734,CT
+Delaware,-0.088,DE
+Florida,-0.213,FL
+Georgia,-0.447,GA
+Hawaii,0.84,HI
+Idaho,0.333,ID
+Illinois,0.094,IL
+Indiana,-0.493,IN
+Iowa,0.289,IA
+Kansas,-0.021,KS
+Kentucky,-0.609,KY
+Louisiana,-0.912,LA
+Maine,0.248,ME
+Maryland,0.312,MD
+Massachusetts,0.848,MA
+Michigan,-0.209,MI
+Minnesota,0.571,MN
+Mississippi,-1.005,MS
+Missouri,-0.413,MO
+Montana,0.202,MT
+Nebraska,0.321,NE
+Nevada,-0.256,NV
+New Hampshire,0.605,NH
+New Jersey,0.553,NJ
+New Mexico,-0.266,NM
+New York,0.512,NY
+North Carolina,-0.263,NC
+North Dakota,0.371,ND
+Ohio,-0.401,OH
+Oklahoma,-0.777,OK
+Oregon,0.232,OR
+Pennsylvania,0.002,PA
+Rhode Island,0.378,RI
+South Carolina,-0.595,SC
+South Dakota,0.149,SD
+Tennessee,-0.641,TN
+Texas,-0.244,TX
+Utah,0.628,UT
+Vermont,0.85,VT
+Virginia,0.349,VA
+Washington,0.54,WA
+West Virginia,-0.657,WV
+Wisconsin,0.203,WI
+Wyoming,0.298,WY

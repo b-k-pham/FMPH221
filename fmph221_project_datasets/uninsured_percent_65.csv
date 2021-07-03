@@ -1,0 +1,51 @@
+Fips,state,Location,uninsured_percent_65
+1,AL,Alabama,0.00315
+2,AK,Alaska,0.01019
+4,AZ,Arizona,0.00775
+5,AR,Arkansas,0.00402
+6,CA,California,0.0106
+8,CO,Colorado,0.00812
+9,CT,Connecticut,0.00628
+10,DE,Delaware,0.00662
+12,FL,Florida,0.01183
+13,GA,Georgia,0.00784
+15,HI,Hawaii,0.00576
+16,ID,Idaho,0.00221
+17,IL,Illinois,0.00805
+18,IN,Indiana,0.00721
+19,IA,Iowa,0.00251
+20,KS,Kansas,0.0061
+21,KY,Kentucky,0.00344
+22,LA,Louisiana,0.00676
+23,ME,Maine,0.00021
+24,MD,Maryland,0.00869
+25,MA,Massachusetts,0.00308
+26,MI,Michigan,0.00335
+27,MN,Minnesota,0.00395
+28,MS,Mississippi,0.00212
+29,MO,Missouri,0.00465
+30,MT,Montana,0.00163
+31,NE,Nebraska,0.00361
+32,NV,Nevada,0.01462
+33,NH,New Hampshire,0.00216
+34,NJ,New Jersey,0.01123
+35,NM,New Mexico,0.00693
+36,NY,New York,0.0074
+37,NC,North Carolina,0.00551
+38,ND,North Dakota,0.00621
+39,OH,Ohio,0.00381
+40,OK,Oklahoma,0.0062
+41,OR,Oregon,0.00502
+42,PA,Pennsylvania,0.00313
+44,RI,Rhode Island,0.00372
+45,SC,South Carolina,0.00265
+46,SD,South Dakota,0.0058
+47,TN,Tennessee,0.00393
+48,TX,Texas,0.01904
+49,UT,Utah,0.00667
+50,VT,Vermont,0.01029
+51,VA,Virginia,0.01145
+53,WA,Washington,0.00562
+54,WV,West Virginia,0.00462
+55,WI,Wisconsin,0.00294
+56,WY,Wyoming,0.011111111
