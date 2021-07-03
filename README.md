@@ -47,7 +47,7 @@ We did initial feature selection in both forward and backward direction. Diagnos
 
 From looking at the diagnostics plot from this model, there is a skew of Residuals vs Fitted plot from two points - North Dakota and South Dakota. This violates homescedasticity of the residuals. Removing these points makes the Residuals vs Fitted plot flatter which satisfies homescasticity, but the fit was still deemed not adequate.
 
-We then removed factors based on overall complexity and t-test significance in the model.
+We then removed predictors based on overall complexity and t-test significance in the model where we used a p-value filter of 0.05.
 
 The final model that we deem optimal consists of three factors: increases in cases per 100,000 capita (pIper100k), mean of hospitals experiencing a shortage (hosp_shortage_mean) and mean of adult icu bed utilization (adult_icu_bed_utilization_mean). To validate our decision making, we also conducted the model selection algoritm on the fitted model without North Dakota and South Dakota. We formulated a similar model as our final model with the Health Score metric, which we opted to remove since it was confusing for others to understand.
 
