@@ -1,5 +1,4 @@
 # FMPH221
-This class is the first out of three core courses of the first year Biostatistics Masters program at UCSD. At the end of the course, we had to create a project utilizing linear regression techniques that we had learned throughout the quarter to answer a scientific question of our choosing. This project was done in pairs of two.
 
 Our project focuses on COVID-19 mortaility by state over a time period. From our results, we aimed to:
 
